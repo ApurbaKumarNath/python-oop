@@ -1,6 +1,6 @@
 # All my learnings that won't dissapoint
 
-I started learning to code using python, and I have taken comprehensive Python notes.
+I started learning to code using python, and I have taken comprehensive notes on all the Computer-Science conpects I have learned till now.
 
 **Why is this worth checking out? => Any learner will benefit from this.**
 
