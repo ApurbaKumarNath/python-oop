@@ -1,8 +1,10 @@
-# BRAC_Summer-23_CSE_Lab
-All the drive links for colab codes and questions are given here.
+# All my learnings that won't dissapoint
 
-All courses' colab codes link -
-https://drive.google.com/drive/folders/1zZzSYDb0CJJ_lUDSs0ya6x3PDovih4GY?usp=drive_link
+I started learning to code using python, and I have taken comprehensive Python notes.
 
-Questions of my courses and previous (Spring - 2021 with answers) all together- 
-https://drive.google.com/drive/folders/11Iw_MsK4LdO7bs0xeUT-6B_T6BpZpZq4?usp=drive_link
+# Why is this worth checking out? => Any learner will benefit from this.
+The best thing is that these notes have all the fundamentals and concepts noted down in a beginner-friendly way. 
+You will find in-depth coverage of every concept including comments for explanation and step-by-step breakdowns of code execution.
+I have mainly focused on taking notes of concepts, so you won't find projects or problem-solving here. 
+
+
