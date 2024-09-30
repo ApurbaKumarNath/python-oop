@@ -4,8 +4,8 @@ I started learning to code using python, and I have taken comprehensive notes on
 
 **Why is this worth checking out? => Any learner will benefit from this.**
 
-The best thing is that these notes have all the fundamentals and concepts noted down in a beginner-friendly way. 
+These notes have all the fundamental concepts noted down in a beginner-friendly way and I believe these would surely help anybody to achieve a good understanding of the basics. 
 You will find in-depth coverage of every concept including comments for explanation.
-I have mainly focused on taking notes of concepts, so you won't find projects or problem-solving here. 
+You will also find my University assignment problems and their solutions for practicing.
 
 
