@@ -1,4 +1,4 @@
-# All my learnings that won't dissapoint
+# All my learnings of Basic Python & OOP that won't dissapoint
 
 I started learning to code using python, and I have taken comprehensive notes on all the conpects that I have learned till now.
 
